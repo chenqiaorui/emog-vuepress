@@ -1,0 +1,14 @@
+/* styles/custom.css */
+
+code {
+    background-color: #f5f5f5; /* Light background color */
+    color: #333;              /* Dark text color for contrast */
+  }
+  
+  pre {
+    background-color: #f5f5f5; /* Light background color */
+    color: #333;              /* Dark text color for contrast */
+    border: 1px solid #ddd;   /* Optional: add a border */
+    padding: 10px;            /* Optional: add some padding */
+    overflow: auto;           /* Ensure long code blocks are scrollable */
+  }
